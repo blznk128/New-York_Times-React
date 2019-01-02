@@ -1,22 +1,14 @@
-
 body {
   background: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/HPifCge7iojh6h28/brooklyn-bridge-with-manhattan-skylines-new-york-city_s8fg_avul_thumbnail-full01.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
   
-  
-  
 .pageLink {
     float: left;
     color: antiquewhite;
     background: black;
     font-size: 20px
-}
-  
-.pageLink:hover {
-    color: #383838;
-    text-decoration: none;
 }
   
 .col-md-3, .col-md-10, .col-md-8, .list-group-item {
